@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1551037521 source:c:\users\rishav\desktop\probabilty\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+
