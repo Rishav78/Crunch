@@ -1,6 +1,6 @@
 # Crunch
 
-Its a program use to generate all posible combination of given string having length in range provided as input.
+Its a program use to generate all possible combination of given string having length in range provided as input.
 
 It receive 4 command line argument
 1. The filename itself
